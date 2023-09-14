@@ -19,9 +19,9 @@
 
 #### Slightly good at it and love it 🌏
 <!--编程语言-->
-[![](https://img.shields.io/badge/-Java-#4682B4?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-4682B4?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 
-[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 
 
 
