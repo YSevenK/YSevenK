@@ -1,6 +1,7 @@
 <p>
-  <span style="color: #ff0000; font-weight: bold; font-style: italic;">life is fucking movie</span>
+  <span style="font-family: 'Comic Sans MS', cursive; color: #800080; font-weight: bold; font-size: 24px;">life is fucking movie</span>
 </p>
+
 
 
 
