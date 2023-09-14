@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YSevenK)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
 
 <!--
