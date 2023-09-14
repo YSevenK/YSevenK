@@ -12,7 +12,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
 
 
