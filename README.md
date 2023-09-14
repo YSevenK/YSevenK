@@ -15,8 +15,8 @@
 
 稍微擅长一点
 <!--编程语言-->
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=6495ED)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-#4682B4?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://reactjs.org/)
 
 
 
