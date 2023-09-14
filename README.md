@@ -4,10 +4,10 @@
 <!--卡片信息-->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YSevenK&show_icons=true&theme=tokyonight" /> </div>
 
-<!--编程语言-->
+<!--图像-->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSevenK&theme=xcode" /> </div>
 
-<!--编程语言-->
+<!--连续登陆-->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
 <!--编程语言-->
