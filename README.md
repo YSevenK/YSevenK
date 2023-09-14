@@ -12,7 +12,8 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=orange
+https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
+
 
 
 <!--
