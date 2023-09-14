@@ -1,6 +1,5 @@
-### Hello!😈
+##  ⚽ Hello!😈
 
-⚽
 
 #### Used language
 <!--语言统计-->
@@ -12,10 +11,11 @@
 <!--图像-->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSevenK&theme=xcode" /> </div>
 
+#### oh oh 🌌
 <!--连续登陆-->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-稍微擅长一点
+#### Slightly good at it and love it🌏
 <!--编程语言-->
 [![](https://img.shields.io/badge/-Java-#4682B4?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://reactjs.org/)
