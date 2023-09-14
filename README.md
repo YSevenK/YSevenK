@@ -17,7 +17,7 @@
 <!--编程语言-->
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
-https://img.shields.io/badge/dynamic/json
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=Python&logoColor=origin)](https://reactjs.org/)
 
 
 
