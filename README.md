@@ -4,6 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YSevenK)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 
 <!--
 **YSevenK/YSevenK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
