@@ -8,10 +8,6 @@
 <!--图像-->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSevenK&theme=xcode" /> </div>
 
-#### oh oh 🌌
-<!--连续登陆-->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
-
 #### Slightly good at it and love it 🌏
 <!--编程语言-->
 [![](https://img.shields.io/badge/-Java-4682B4?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
