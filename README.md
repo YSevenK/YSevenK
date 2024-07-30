@@ -3,8 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YSevenK&show_icons=true&theme=tokyonight" /> 
 </div>
 
- [![YSevenK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSevenK)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Fighting！ 🚀
 <!--图像-->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSevenK&theme=xcode" /> </div>
