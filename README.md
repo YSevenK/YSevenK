@@ -1,6 +1,3 @@
-
-<img align="right" alt="Coding" width="400" src="<img src="https://i2.imgs.ovh/d/CgACAgEAAx0EUvSR8wACBqxmqEc1G_G8WB8lnFJGkZzwbudJcgACbQUAAsqpQUVh2jiHYNv-ATUE" alt="Your Alt Text">">
-
 <!--卡片信息-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YSevenK&show_icons=true&theme=tokyonight" /> 
